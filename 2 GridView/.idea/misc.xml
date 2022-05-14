@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../../../layout/custom_preview.xml" value="0.19739583333333333" />
+        <entry key="app/src/main/res/layout-large/main.xml" value="0.12890625" />
+        <entry key="app/src/main/res/layout/activity_facts.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/animalview.xml" value="0.36069946289062504" />
+        <entry key="app/src/main/res/layout/factactivity.xml" value="0.17261047363281246" />
+        <entry key="app/src/main/res/layout/facts.xml" value="0.3104166666666667" />
+        <entry key="app/src/main/res/layout/factsactivty.xml" value="0.2171875" />
+        <entry key="app/src/main/res/layout/item_view.xml" value="0.31410041662214255" />
+        <entry key="app/src/main/res/layout/itemiew.xml" value="0.14387031408308004" />
+        <entry key="app/src/main/res/layout/itemview.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/row_data.xml" value="0.1526268115942029" />
+        <entry key="app/src/main/res/menu/context_menu.xml" value="0.17135416666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

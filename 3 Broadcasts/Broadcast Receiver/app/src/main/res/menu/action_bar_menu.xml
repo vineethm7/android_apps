@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/attr_menu"
+        android:title="@string/attr_menu"
+        android:visible="true"
+        />
+    <item
+        android:id="@+id/rest_menu"
+        android:title="@string/rest_menu"
+        android:visible="true"
+        />
+</menu>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Project3A1</string>
+    <string name="manifest_permission">Permission for App 1</string>
+    <string name="manifest_desc">Request the Permission Required for App 1</string>
+</resources>

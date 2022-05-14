@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Project3A2</string>
+    <string name="manifest_permission">Permission for App 2</string>
+    <string name="manifest_desc">Request the permission required for App 2</string>
+    <string name="welcome_to_a2">Welcome to App 2</string>
+    <string name="attr_menu">Attractions</string>
+    <string name="rest_menu">Restaurants</string>
+    <string-array name="attr_val">
+        <item>360 Chicago</item>
+        <item>Skydeck Chicago</item>
+        <item>Navy Pier</item>
+        <item>Millennium Park</item>
+        <item>Shedd Aquarium</item>
+        <item>Magnificent Mile</item>
+        <item>The Art Institute of Chicago</item>
+        <item>Buckingham Fountain</item>
+
+    </string-array>
+    <string-array name="attr_web">
+        <item>https://360chicago.com/</item>
+        <item>https://theskydeck.com/</item>
+        <item>https://navypier.org/</item>
+        <item>https://www.chicago.gov/city/en/depts/dca/supp_info/millennium_park.html</item>
+        <item>https://www.sheddaquarium.org/</item>
+        <item>https://www.themagnificentmile.com/</item>
+        <item>https://www.artic.edu/</item>
+        <item>https://loopchicago.com/listings/buckingham-fountain</item>
+    </string-array>
+
+    <string-array name="rest_val">
+        <item>Superdawg Drive In</item>
+        <item>Nawabi Hyderabad House Naperville</item>
+        <item>Thalaiva\'s Indian Kitchen</item>
+        <item>Luella\'s Southern Kitchen</item>
+        <item>Smoque BBQ</item>
+        <item>Pat\'s Pizza and Ristorante</item>
+        <item>Lula Cafe</item>
+        <item>Pequod\'s Pizza</item>
+    </string-array>
+    <string-array name="rest_web">
+        <item>https://superdawg.com/</item>
+        <item>https://hhnaperville.com/#!</item>
+        <item>https://www.thalaivasindiankitchen.com/</item>
+        <item>https://www.luellassouthernkitchen.com/</item>
+        <item>https://smoquebbq.com/</item>
+        <item>https://pats-pizzeria-chicago.securebrygid.com/zgrid/themes/13142/intro/index.jsp</item>
+        <item>https://www.lulacafe.com/</item>
+        <item>https://pequodspizza.com/chicago/</item>
+    </string-array>
+
+
+</resources>
